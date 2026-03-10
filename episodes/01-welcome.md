@@ -23,8 +23,8 @@ exercises: 15
 
 
 :::::::::::::::::::::::::::::::::::::::instructor
-In an online training, ensure that captions are turned on, that one trainer claims host, and that the host adds other trainers as co-hosts. 
-The host key is in the email to trainers from the core team prior to the training. 
+In an online training, ensure that captions are turned on, that one Trainer claims host, and that the host adds other Trainers as co-hosts. 
+The host key is in the email to Trainers from the core team prior to the training. 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
@@ -70,7 +70,7 @@ The resources below can provide additional guidance on respectful pronoun usage:
 
 ## Getting to know each other
 
-There are multiple ways to build a sense of community early in an instructor training event 
+There are multiple ways to build a sense of community early in an Learner-Centered Teaching event 
 and help ensure participants engage fully with one another. Some example activities are:
 
 - Include an [icebreaker question](icebreakers.md) in the sign-in section or separately on the etherpad
@@ -78,7 +78,7 @@ and help ensure participants engage fully with one another. Some example activit
 - Model informal chat as participants come into the room on Day 1, particularly if a number of participants are early or late
 
 Hearing participants say their own names is especially valuable in online workshops with diverse participants whose names may
-be difficult for some trainers and instructor trainees to pronounce.
+be difficult for some Trainers and instructor trainees to pronounce.
 
 When planning icebreakers and introductions, it's important to be aware of time considerations, given the number of participants
 and expected timing. Balancing what is done in the etherpad and verbally can help, as can avoiding activities that are likely to 
@@ -114,7 +114,7 @@ Code of Conduct Committee by completing [this form][form-coc].
 ## Introductions
 
 Hello everyone, and welcome to The Carpentries
-instructor training.  We are very pleased to have you with us.
+Learner-Centered Teaching.  We are very pleased to have you with us.
 
 ::::::::::::::::::::::::::::::::::::::  discussion
 
@@ -168,18 +168,25 @@ The main goal of The Carpentries is not to teach specific skills, per se - altho
 are covered - but rather, to convey best practices that will enable
 researchers to be more productive and do better research.
 
-## Instructor Training Overview
+## Learner-Centered Teaching Overview
 
-The goal of this training is to provide you with the skills and information you need
-to become a certified Carpentries Instructor. Our expectations of certified
-Instructors is that they:
+Learner-Centered Teaching equips participants with the strategies and tools necessary to use effective, hands-on teaching practices in short-format trainings. This 8-hour interactive program introduces key principles of educational psychology and evidence-based teaching. Through a blend of short lessons and hands-on practice, participants develop their instructional skills while engaging with a cohort of peers who share their interest in teaching and learning.
 
-- be familiar with and understand **how to apply research-based teaching principles**, especially as they apply to adult learners.
-- understand the **importance of a respectful and inclusive classroom environment**; commit to creating such an environment; and be able to identify and implement The Carpentries policies and general practices to accomplish this.
-- **practice and develop skills** in the teaching methods used in The Carpentries workshops.
-- learn enough about The Carpentries organisation to **know where to go for help**, how to start organizing a workshop, and how to get involved with community activities.
+The goals of this training include:
+- Introduce you to evidence-based teaching practices.
+- Teach you strategies to foster positive, inclusive learning environments. 
+- Provide opportunities to practice and receive feedback on teaching techniques. 
+- Prepare you to lead effective short-format training sessions.
 
-These four goals are broken down into four main themes of content:
+By the end of this training, participants will:
+- Understand and be able to apply core concepts from educational research.
+- Recognise the importance of creating respectful and inclusive learning environments, and know how to apply related policies and practices.
+- Gain experience with the lesson delivery and assessment methods most effective in short-format workshops.
+- Be familiar with and understand **how to apply research-based teaching principles**, especially as they apply to adult learners.
+- Understand the **importance of a respectful and inclusive classroom environment**; 
+
+
+These goals are broken down into the following three themes of content:
 
 ### How Learning Works
 
@@ -191,7 +198,7 @@ findings and demonstrating how they can be used to help people learn better and 
 
 Just like learning a new language, a musical instrument,
 or a sport, teaching is a skill that requires practice and feedback.
-We will have many opportunities to practice and give each other feedback throughout this training.
+We will have an opportunity to practice and give each other feedback during this training.
 
 ### Creating a Positive Learning Environment
 
@@ -200,29 +207,14 @@ community effort to treat one another with kindness and respect.  The [Code of C
 is one piece of this. We will also be discussing and practicing teaching techniques to create a positive and
 welcoming environment in your classrooms, and will spend some time talking about why this is important.
 
-### The Carpentries History and Culture
-
-In addition to the teaching practices and philosophy that have been
-adopted by The Carpentries community, it is helpful to become familiar
-with our community structure and organisational procedures as you
-prepare to join our Instructor community.
-The greatest asset of The Carpentries is people like
-you - people who want to help researchers learn new skills
-and share their own experience and enthusiasm.  Meeting your fellow trainees and
-Instructor Trainers at this event is your first step into The Carpentries community.
-
 ## What We Leave Out
+We will **not** discuss how to become a Carpentries certified Instructor and become integrated into the [Carpentries](https://carpentries.org/) community to teach [Carpentries workshops](https://carpentries.org/workshops/). *If you would like to learn more about becoming a Carpentries Instructor, you must attend Instructor Training. Please visit the [Become an Instructor page](https://carpentries.org/become-Instructor/) on The Carpentries website for details on admission.*
 
-We will **not** be going over Data Carpentry, Library Carpentry, or Software Carpentry workshop content in detail (although you will gain
-familiarity with some of the content through the exercises),
-This training is a significant requirement for becoming a certified Carpentries Instructor.
-The additional steps for certification, called *Checkout*, will require that you dig into the workshop content yourself. We will talk about checkout requirements more in part 3 of this training.
+We will **not** be going over Data Carpentry, Library Carpentry, or Software Carpentry workshop content in detail.
 
-We also do not discuss *how* to develop lessons, although we do mention some aspects of lesson design. We include this information to help you as an instructor identify the important components of lessons for high impact, inclusive teaching. The Carpentries now has a growing subcommunity dedicated to lesson development,
-and offers [additional training in lesson development][cldt]. 
+We also do not discuss *how* to develop lessons, although we do mention some aspects of lesson design. We include this information to help you as an Instructor identify the important components of lessons for high impact, inclusive teaching. The Carpentries now has a growing subcommunity dedicated to lesson development, and offers [additional training in lesson development][cldt]. 
 
-If there is a particular topic that you would like us to address, let the Trainers
-know.
+If there is a particular topic that you would like us to address, let the Trainers know.
 
 ## What Questions Do You Have?
 
@@ -245,7 +237,7 @@ workshops specifically.
 
 - The Carpentries is a community of practice. We strive to provide a welcoming environment for all learners and take our Code of Conduct seriously.
 - This episode sets the stage for the entire training. The introductions and exercises help everyone begin to develop a relationship and trust.
-- This training will cover evidence-based teaching practices and how they apply specifically to The Carpentries.
+- This training will cover evidence-based teaching practices and how they apply to general teaching environments.
 - Learner motivation and prior knowledge vary widely.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
