@@ -70,7 +70,7 @@ The resources below can provide additional guidance on respectful pronoun usage:
 
 ## Getting to know each other
 
-There are multiple ways to build a sense of community early in an Learner Centered Teaching event 
+There are multiple ways to build a sense of community early in an Learner-Centered Teaching event 
 and help ensure participants engage fully with one another. Some example activities are:
 
 - Include an [icebreaker question](icebreakers.md) in the sign-in section or separately on the etherpad
@@ -114,7 +114,7 @@ Code of Conduct Committee by completing [this form][form-coc].
 ## Introductions
 
 Hello everyone, and welcome to The Carpentries
-Learner Centered Teaching.  We are very pleased to have you with us.
+Learner-Centered Teaching.  We are very pleased to have you with us.
 
 ::::::::::::::::::::::::::::::::::::::  discussion
 
@@ -168,7 +168,7 @@ The main goal of The Carpentries is not to teach specific skills, per se - altho
 are covered - but rather, to convey best practices that will enable
 researchers to be more productive and do better research.
 
-## Learner Centered Teaching Overview
+## Learner-Centered Teaching Overview
 
 Learner-Centered Teaching equips participants with the strategies and tools necessary to use effective, hands-on teaching practices in short-format trainings. This 8-hour interactive program introduces key principles of educational psychology and evidence-based teaching. Through a blend of short lessons and hands-on practice, participants develop their instructional skills while engaging with a cohort of peers who share their interest in teaching and learning.
 
@@ -198,7 +198,7 @@ findings and demonstrating how they can be used to help people learn better and 
 
 Just like learning a new language, a musical instrument,
 or a sport, teaching is a skill that requires practice and feedback.
-We will have an opportunity to practice and give each other feedback throughout this training.
+We will have an opportunity to practice and give each other feedback during this training.
 
 ### Creating a Positive Learning Environment
 
@@ -210,9 +210,9 @@ welcoming environment in your classrooms, and will spend some time talking about
 ## What We Leave Out
 We will **not** discuss how to become a Carpentries certified Instructor and become integrated into the [Carpentries](https://carpentries.org/) community to teach [Carpentries workshops](https://carpentries.org/workshops/). *If you would like to learn more about becoming a Carpentries Instructor, you must attend Instructor Training. Please visit the [Become an Instructor page](https://carpentries.org/become-Instructor/) on The Carpentries website for details on admission.*
 
-We will **not** be going over Data Carpentry, Library Carpentry, or Software Carpentry workshop content in detail
+We will **not** be going over Data Carpentry, Library Carpentry, or Software Carpentry workshop content in detail.
 
-We also do not discuss *how* to develop lessons. We include this information to help you as an Instructor identify the important components of lessons for high impact, inclusive teaching. The Carpentries now has a growing subcommunity dedicated to lesson development, and offers [additional training in lesson development][cldt]. 
+We also do not discuss *how* to develop lessons, although we do mention some aspects of lesson design. We include this information to help you as an Instructor identify the important components of lessons for high impact, inclusive teaching. The Carpentries now has a growing subcommunity dedicated to lesson development, and offers [additional training in lesson development][cldt]. 
 
 If there is a particular topic that you would like us to address, let the Trainers know.
 
