@@ -22,7 +22,7 @@ the html page.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Carpentries Learner Centered Teaching Training has the following goals:
+Carpentries Learner-Centered Teaching Training has the following goals:
 
 - Introduce you to evidence-based teaching practices.
 - Teach you strategies to foster positive, inclusive learning environments. 
@@ -35,18 +35,18 @@ Because we have only limited time, some things are beyond the scope of this trai
 - How to program in R or Python, use the Unix shell, Git or SQL, or any of the other topics taught in Data Carpentry, Library Carpentry, or Software Carpentry workshops.
 - How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you are inspired to learn more, for example, in our [lesson development training][cldt-curriculum]).
 
-Learner Centered Teaching events are hands-on throughout: short lessons alternate with individual
+Learner-Centered Teaching events are hands-on throughout: short lessons alternate with individual
 and group practical exercises, including practice teaching sessions. 
 
 - All participants are required to abide by our [Code of Conduct][conduct].
 - There are no specific prerequisites for this training.
 - Participants are not required to have any specific programming skills.
 
-Feedback on these materials is welcome as an [issue](https://github.com/carpentries/instructor-training-lct/issues) on the GitHub repository that hosts this site.
+Feedback on these materials is welcome as an [issue][issues] on the GitHub repository that hosts this site.
 
 **These materials are freely available under a [Creative Commons license][license].**
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: Instructor
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 ### Scheduling Notes
 
 The curriculum includes approximately 8 hours of instructional material and can be delivered either as one full-day training or two consecutive half-day sessions.
