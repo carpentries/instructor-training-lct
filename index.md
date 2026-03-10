@@ -17,7 +17,7 @@ The Instructor view has a few features that the learner view does not have:
 3. A schedule integrated into the index page
 
 You can enter Instructor view at any time by selecting the dropdown menu at the
-top right of the page or you can edit the URL and place `/Instructor/` before
+top right of the page or you can edit the URL and place `/instructor/` before
 the html page.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
