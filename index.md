@@ -3,7 +3,7 @@ redirect_from: http://swcarpentry.github.io/instructor-training/
 site: sandpaper::sandpaper_site
 ---
 
-Welcome to The Carpentries Learner Centered Teaching! Learner-Centered Teaching equips participants with the strategies and tools necessary to use effective, hands-on teaching practices in short-format trainings. This 8-hour interactive program introduces key principles of educational psychology and evidence-based teaching. Through a blend of short lessons and hands-on practice, participants develop their instructional skills while engaging with a cohort of peers who share their interest in teaching and learning.
+Welcome to The Carpentries Learner-Centered Teaching! Learner-Centered Teaching equips participants with the strategies and tools necessary to use effective, hands-on teaching practices in short-format trainings. This 8-hour interactive program introduces key principles of educational psychology and evidence-based teaching. Through a blend of short lessons and hands-on practice, participants develop their instructional skills while engaging with a cohort of peers who share their interest in teaching and learning.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: Instructor
 
