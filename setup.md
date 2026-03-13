@@ -5,7 +5,7 @@ training_site: https://carpentries.github.io/instructor-training-lct
 
 ## Preparing for Your Training
 
-1. Please fill out our pre-workshop survey. Please refer to your pre-workshop email
+1. Please fill out our pre-training survey. Please refer to your pre-training email
   for a custom link for your event. Your responses will help your Trainers understand
   your background and customise the training appropriately. They also assist The Carpentries
   in understanding and reporting on our impact.
