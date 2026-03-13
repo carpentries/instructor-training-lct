@@ -7,7 +7,7 @@ title: 'Information: The Carpentries Learner-Centered Teaching'
 Learner-Centered Teaching equips participants with the strategies and tools necessary to use effective, hands-on teaching practices in short-format trainings. This 8-hour interactive program introduces key principles of educational psychology and evidence-based teaching. Through a blend of short lessons and hands-on practice, participants develop their instructional skills while engaging with a cohort of peers who share their interest in teaching and learning.
 
 
-Carpentries Learner-Centered Teaching has the following goals:
+Learner-Centered Teaching has the following goals:
 
 * Introduce you to evidence-based teaching practices.
 * Teach you strategies to foster positive, inclusive learning environments. 
@@ -30,7 +30,7 @@ All participants are required to abide by The Carpentries [Code of Conduct](http
 Learner-Centered Teaching is typically conducted using the Zoom video conferencing platform. 
 No log-in is needed.
 However, if you have not used Zoom before, please click the link a few minutes early as it may prompt you to install the Zoom app or browser extension.
-If you have registered to join a Learner-Centered event, you should have received a connection link in the information email about your training event. 
+If you have registered to join a Learner-Centered Teaching event, you should have received a connection link in the information email about your training event. 
 If you did not receive that email, please check your spam folder, then email [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to request help.
 
 If your training event will take place in-person, you will receive details about the location directly from your Trainers before the event.
@@ -58,12 +58,9 @@ Please review [_Preparing for your training_](https://carpentries.github.io/inst
 A brief summary of these instructions is as follows:
 
 1. Complete our Pre-training Survey. You will receive a custom link for your event when you receive your connection information.
-1. Please read the following:
-    * [The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
-    * The Carpentries Annual Report (most recent version from [The Carpentries Impact page](https://carpentries.org/about-us/impact/)
 
 ### What to Bring to an In-Person Event
-Most Instructor Training events take place online.
+Most Learner-Centered Teaching events take place online.
 If your training will take place in-person, please bring a laptop that is Internet connected and has a functioning browser. 
 
 ### Attendance and Cancellation
