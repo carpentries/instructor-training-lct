@@ -31,7 +31,7 @@ Carpentries Learner-Centered Teaching Training has the following goals:
 
 Because we have only limited time, some things are beyond the scope of this training. We will not be learning:
 
-- How to become a Carpentries certified Instructor and become integrated into the [Carpentries](https://carpentries.org/) community to teach [Carpentries workshops](https://carpentries.org/workshops/). *If you would like to learn more about becoming a Carpentries Instructor, you must attend Instructor Training. Please visit the [Become an Instructor page](https://carpentries.org/become-Instructor/) on The Carpentries website for details on admission.*
+- How to become a Carpentries certified Instructor and become integrated into the [Carpentries](https://carpentries.org/) community to teach [Carpentries workshops](https://carpentries.org/workshops/). *If you would like to learn more about becoming a Carpentries Instructor, you must attend Instructor Training. Please visit the [Become an Instructor page](https://carpentries.org/instructor-training/#how-to-become-an-instructor) on The Carpentries website for details on admission.*
 - How to program in R or Python, use the Unix shell, Git or SQL, or any of the other topics taught in Data Carpentry, Library Carpentry, or Software Carpentry workshops.
 - How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you are inspired to learn more, for example, in our [lesson development training][cldt-curriculum]).
 
