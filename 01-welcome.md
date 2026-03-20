@@ -173,12 +173,14 @@ researchers to be more productive and do better research.
 Learner-Centered Teaching equips participants with the strategies and tools necessary to use effective, hands-on teaching practices in short-format trainings. This 8-hour interactive program introduces key principles of educational psychology and evidence-based teaching. Through a blend of short lessons and hands-on practice, participants develop their instructional skills while engaging with a cohort of peers who share their interest in teaching and learning.
 
 The goals of this training include:
+
 - Introduce you to evidence-based teaching practices.
 - Teach you strategies to foster positive, inclusive learning environments. 
 - Provide opportunities to practice and receive feedback on teaching techniques. 
 - Prepare you to lead effective short-format training sessions.
 
 By the end of this training, participants will:
+
 - Understand and be able to apply core concepts from educational research.
 - Recognise the importance of creating respectful and inclusive learning environments, and know how to apply related policies and practices.
 - Gain experience with the lesson delivery and assessment methods most effective in short-format workshops.
