@@ -19,7 +19,6 @@ exercises: 30
 :::::::::::::::::::::::::::::::::::::::: questions
 
 -   How do people learn?
--   Who is a typical Carpentries learner?
 -   How can we help novices become competent practitioners?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -42,7 +41,7 @@ are doing, and then apply those lessons learned to the next step in the
 learning process. Having learners help each other during the workshops
 also helps to reinforce concepts taught during the workshops.
 
-**A Carpentries workshop is an interactive event** -- for learners and
+**A Carpentries workshop that is an interactive event** -- for learners and
 instructors. We give and receive feedback throughout the course of a
 workshop. We incorporate assessments within the lesson materials and ask
 for feedback on sticky notes during lunch breaks and at the end of each
@@ -75,7 +74,7 @@ simplified form, three stages of this model are:
     may ask questions that seem irrelevant or off-topic as they rely on
     prior knowledge, without knowing what is or is not related yet.
 
-    > Example: A *novice* learner in a Carpentries workshop might never have heard of the bash shell, and therefore may have no understanding of how it relates to their file system or other programs on their computer.
+    > Example: A *novice* learner in a workshop might never have heard of the bash shell, and therefore may have no understanding of how it relates to their file system or other programs on their computer.
 
 -   *Competent practitioner*: someone who has enough understanding for
     everyday purposes. They will not know all the details of how
@@ -83,11 +82,11 @@ simplified form, three stages of this model are:
     accurate, but it is sufficient for completing normal tasks with
     normal effort under normal circumstances.
 
-    > Example: A *competent practitioner* in a Carpentries workshop might have used the shell before and understand how to move around directories and use individual programs, but they might not understand how they can fit these programs together to build scripts and automate large tasks.
+    > Example: A *competent practitioner* in a workshop might have used the shell before and understand how to move around directories and use individual programs, but they might not understand how they can fit these programs together to build scripts and automate large tasks.
 
 -   *Expert*: someone who can easily handle situations that are out of the ordinary.
 
-    > Example: An *expert* in a Carpentries workshop may have experience writing and running shell scripts and, when presented with a problem, immediately sees how these skills can be used to solve the problem.
+    > Example: An *expert* in a workshop may have experience writing and running shell scripts and, when presented with a problem, immediately sees how these skills can be used to solve the problem.
 
 Note that how a person *feels* about their skill level is not included
 in these definitions! You may or may not consider yourself an expert in
@@ -95,7 +94,7 @@ a particular subject, but may nonetheless function at that level in
 certain contexts. We will come back to the expertise of the Instructor
 and its impact -- positive and negative -- on teaching, in the next
 episode. For now, we are primarily concerned with novices, as this is
-The Carpentries' primary target audience.
+the primary target audience for this trainin.
 
 It is common to think of a novice as a sort of an "empty vessel" into
 which knowledge can be "poured." Unfortunately, this analogy includes
@@ -323,7 +322,7 @@ useful to consider 3 broad categories:
     also fall into this category of misconception.
 
 The middle category of misconceptions is the most useful type to watch
-out for in Carpentries workshops. While teaching, we want to expose
+out for. While teaching, we want to expose
 learners' broken models so that we can help them begin to deconstruct
 them and build better ones in their place.
 
@@ -547,8 +546,8 @@ ideas.
 ::: callout
 ## Meeting Learners Where They Are
 
-One of the strengths of Carpentries workshops is that we meet learners
-*where they are*. Carpentries Instructors strive to help learners
+One of the strengths of a workshops is to meet learners
+*where they are*. Instructors should strive to help learners
 progress from whatever starting point they happen to be at, without
 making anyone feel inferior about their current practices or skillsets.
 We do this in part by teaching relevant and useful skills, building an
