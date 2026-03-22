@@ -7,10 +7,10 @@ exercises: 15
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Identify common ground with some of your fellow participants.
-- Understand a general structure and core goals of The Carpentries.
-- Predict what will and will not be covered in this training.
-- Know where to find The Carpentries Code of Conduct and how to report an incident.
+- Introduce you to evidence-based teaching practices.
+- Teach you strategies to foster positive, inclusive learning environments.
+- Provide opportunities to practice and receive feedback on teaching techniques.
+- Prepare you to lead effective short-format training sessions.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
