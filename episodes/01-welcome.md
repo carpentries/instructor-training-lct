@@ -122,7 +122,7 @@ Learner-Centered Teaching.  We are very pleased to have you with us.
 
 To begin class, each Trainer should give a brief introduction of themselves.
 
-(For some guidelines on introducing yourself, see some content from the [Introductions section](23-introductions.md) later in the training.)
+(For some guidelines on introducing yourself, see some content from the [Introductions section of Instructor Training](https://carpentries.github.io/instructor-training/23-introductions.html#launching-your-workshop-the-introduction.)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
