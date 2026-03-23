@@ -272,7 +272,6 @@ practice teaching and to get and give feedback in parts 3 and 4.
 
 We encourage you to review the following episodes as a resource when preparing to teach your materials.
 
-- [Understanding your audience and examining learning objects](18-preparation.md)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
