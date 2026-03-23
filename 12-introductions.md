@@ -122,9 +122,7 @@ no assumptions about thermostats in an unfamiliar classroom!)
 
 ## Introductions for Everyone
 
-If you're teaching a typical Carpentries workshop, then you are
-probably not teaching alone!  Make
-sure that everyone involved in the workshop - instructors,
+Make sure that everyone involved in the workshop - instructors,
 helpers, organisers - has a chance to introduce themselves at some point.
 If you spread out introductions across sections or have people coming and going,
 it helps to build in a reminder to create time later on.
@@ -234,13 +232,9 @@ This exercise will take about 5 minutes.
 - Plan next steps. Does the local community have resources to support continued learning?
   Do you have advice for how learners might continue on their own? Even
   if you have no advice, asking learners to take a moment to discuss their own plans can support them in taking a next step sooner rather than later.
-- Reiterate where the lesson materials can be found, and encourage them to apply at least one of the skills to their own work within the next few days.  Potential examples include:
-  - Use R to reproduce an analysis that was previously done with a spreadsheet application;
-  - Write a lab notebook entry in R-markdown;
-  - Backup a thesis or manuscript by storing it on a remote server with a version control system; and
-  - Log in to a remote machine and run an analysis there.
-- Collect feedback. Minute cards, one-up-one-down, and making time for Carpentries post-assessment surveys will support your continuing development as an
-  Instructor as well as our continuing development of Carpentries programs. This can also support or complement a reflection activity.
+- Reiterate where the lesson materials can be found, and encourage them to apply at least one of the skills to their own work within the next few days.  
+- Collect feedback. Minute cards, one-up-one-down, and making time for any post-assessment surveys will support your continuing development as an
+  Instructor. This can also support or complement a reflection activity.
 - Check with the workshop host to see if they have any closing words or instructions they would like to share.
 - Celebrate everyone's hard work. Thank your learners for helping each other, for staying motivated and persevering with you! Thank your helpers -- keep a
   list of names handy if you might forget them. Enjoy the applause, and give everyone a moment to bask in praise for a job well done.
