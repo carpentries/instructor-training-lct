@@ -130,9 +130,9 @@ Now, we would like to get to know all of you.
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
-## Reviewing The Carpentries Experience and Goals
+## Reviewing Your Experience and Goals
 
-For the multiple choice questions below, please place an "X" next to the response(s) that best apply to you. Then find yourself a spot
+For the multiple choice question below, please place an "X" next to the response(s) that best apply to you. Then find yourself a spot
 in the Etherpad below to write a short response to the last question.
 
 
