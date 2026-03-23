@@ -21,21 +21,21 @@ exercises: 30
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-:::::::::::::::::::::::::::::::::::::::instructor
+:::::::::::::::::::::::::::::::::::::::Instructors
 In an online training, ensure that captions are turned on, that one trainer claims host, and that the host adds other trainers as co-hosts. 
 The host key is in the email to trainers from the core team prior to the training. 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Motivation Matters
 
-Teaching and learning are not the same process. As we have seen, an instructor can make choices that facilitate the cognitive processes
+Teaching and learning are not the same process. As we have seen, an Instructors can make choices that facilitate the cognitive processes
 necessary for learning to occur. But **any technique can fall flat when learners are not motivated**. Worse, demotivation is contagious! Teaching or sharing a classroom with demotivated
 learners is not fun or rewarding. It can be tempting, especially for teachers facing burnout after strenuous and ineffectual effort, to blame learners for
 spoiling the classroom experience.
 
-It is true that learner motivation is influenced by many factors well beyond the control of an instructor, including individual background and systemic forces.
+It is true that learner motivation is influenced by many factors well beyond the control of an Instructors, including individual background and systemic forces.
 However, there are many things you can do to cultivate motivation in your classroom, and perhaps most importantly, to **avoid doing harm** to the precious drive your
-learners bring to the classroom on day one. In Carpentries workshops, most learners come eager to learn! You have the power to influence how they feel when they depart.
+learners bring to the classroom on day one. You have the power to influence how they feel when they depart.
 
 No two-day workshop can truly bring a total novice to the level of a competent practitioner. Carpentries workshops function in a context of
 *self training*, in which workshops offer vital tools and a map for learners to proceed on their own. Our workshops lower the barrier to entry and help learners
@@ -97,33 +97,16 @@ This exercise should take about 10 minutes.
 Any useful estimate of time must take into account
 **how frequent failures are**
 and how much time is lost to them.
-For example,
-editing a text file seems like a quick task,
-but most graphical editors save things to the user's desktop or home directory.
-If a novice needs to run shell commands on the files they've edited,
-they often fail to navigate to the right directory without help.
-You will learn to anticipate these sorts of challenges as you chart your [expert awareness gaps](04-expertise.md#expertise-and-teaching). As a result, your skill at estimating time to mastery will improve.
-If you are new to teaching, try to ask an experienced instructor for feedback before trying out a new exercise.
+A task may seem quick and simple from an expert perspective, but small challenges can slow learners down significantly. For example, creating a presentation slide might feel like a fast task, but a novice may struggle with formatting, saving, or locating their file afterward. These small obstacles can add unexpected time and frustration.
 
+As an Instructors, learning to anticipate these moments will help you better estimate how long tasks actually take for learners. Over time, this awareness improves your teaching and planning. If you are new to teaching, it can be helpful to get feedback from more experienced Instructorss before trying a new activity.
 
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-While we aim to begin workshops with motivating content, in practice this does not always occur. Workflow-based content like that taught in Data Carpentry
-workshops may start at the beginning of the workflow, for example. Even when a 'motivating example' is built in to the start of a workshop, technical
-problems like software installation can turn those precious first minutes into an experience of frustration and impatience. That is ok! What is important is to
-**be mindful of times when your content is not motivating**, and to strategise ways to re-engage learners (and yourself) using some of the other techniques in this section.
-
-## How Can You Affect Motivation?
-
-In addition to teaching things that will make our learners' lives easier and focusing
-on authentic tasks, there are a number of other strategies we can use to motivate
-learners when we teach.
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Brainstorming Motivational Impacts
 
-Think back to courses you have taken in the past and consider things that an instructor has said or done that you found either **motivating** or **demotivating**.
+Think back to courses you have taken in the past and consider things that an Instructors has said or done that you found either **motivating** or **demotivating**.
 Try to think of one example in each case, and share your example under the appropriate heading in the Etherpad.
 
 This exercise should take about 5 minutes.
@@ -131,7 +114,7 @@ This exercise should take about 5 minutes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::: instructor
+::::::::::::::::::::::::::::::::::::: Instructors
 
 After trainees write in the etherpad, one way to discuss/review comments is to note which items in either list suggest practices that trainees can employ in their teaching and in particular to review how topics discussed already  in the training (going slowly, expert awareness gaps, formative assessment, memory management, etc) can help mitigate the demotivating or are present in the motivating examples. 
 
@@ -163,7 +146,7 @@ person" who has inherent strengths or weaknesses.
 
 The belief that ability or intelligence is born rather than made -- dubbed a **fixed mindset** by Carol Dweck -- may impact the learning process. Broadly, this is a
 continuing topic of research and debate in education communities. In the specific context of Carpentries workshops, we frequently encounter learners who believe that they are not
-"computational people," and Instructors often report that this fixed mindset interferes with motivation to engage fully with the task of learning to program. We
+"computational people," and Instructorss often report that this fixed mindset interferes with motivation to engage fully with the task of learning to program. We
 therefore recommend three types of interventions that have been shown to influence mindset, encouraging learners to believe that ability can be acquired through
 effort -- a **growth mindset**.
 
@@ -187,7 +170,7 @@ This exercise should take about 5 minutes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- **Presenting the instructor as a learner**. We want our learners to have confidence in our qualifications, but it is easy to take this too far. Presenting yourself as a learner offers a relatable model, fostering a growth mindset and teaching a positive approach to the continuing challenge of learning. Using
+- **Presenting the Instructors as a learner**. We want our learners to have confidence in our qualifications, but it is easy to take this too far. Presenting yourself as a learner offers a relatable model, fostering a growth mindset and teaching a positive approach to the continuing challenge of learning. Using
   [participatory live coding](17-live), our chosen method for teaching concepts, is very useful for this reason. It is common to make errors while
   coding. Embrace these with enthusiasm! Leveraging your own mistakes as opportunities can turn an awkward moment into a highlight of a lesson, demonstrating both
   problem-solving approaches and positive error framing. If you are unlucky and fail to make any useful mistakes, sharing stories about your learning process can
@@ -204,8 +187,8 @@ The typos are the pedagogy.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 - **Praising effort or improvement, not performance or ability**. Praise based on the quality of performance often feels like the highest praise because it goes
-  straight to your identity as a person of intellect and skill. When faced with a fixed mindset ("I'm not a computational person!"), many well-intentioned teachers
-  counter with another fixed mindset ("You ARE a computational person! You're really good at this!"). However, this doesn't prepare learners to interpret future obstacles as
+  straight to your identity as a person of intellect and skill. When faced with a fixed mindset ("I'm not a technical person!"), many well-intentioned teachers
+  counter with another fixed mindset ("You ARE a technical person! You're really good at this!"). However, this doesn't prepare learners to interpret future obstacles as
   irrelevant to innate ability. Evidence suggests that learner perseverance is best supported in the long term by praising effort or improvement instead. If you
   are not convinced of this, consider the impact on the person sitting next to your target, who might overhear but not receive the same praise.
 
@@ -259,10 +242,10 @@ serious hazards in the classroom! Here are a few **things you should not do in y
   there. Reserve those conversations for breaks or follow-up emails.
 - **Pretend to know more than you do**.  People will actually trust you
   more if you are frank about the limitations of your knowledge, and
-  will be more likely to ask questions and seek help. (Also see "Presenting the instructor as a learner," above)
+  will be more likely to ask questions and seek help. (Also see "Presenting the Instructors as a learner," above)
 - **Use the word "just" or other demotivating words** we talked about in a
   [previous episode](04-expertise.html). These signal to the learner that
-  the instructor thinks their problem is trivial
+  the Instructors thinks their problem is trivial
   and by extension that they therefore must be deficient
   if they are not able to figure it out.
 - **Take over the learner's keyboard**. It is rarely a good idea to type anything for your learners.
@@ -282,21 +265,18 @@ to avoid these types of comments takes practice, but is well worth the effort.
 
 ## Not Just Learners
 
-What we have not discussed yet is strategies to motivate the *instructor*. But why does *your* motivation matter?
+What we have not discussed yet is strategies to motivate the *Instructors*. But why does *your* motivation matter?
 
-- **Learners respond to an instructor's enthusiasm**. The more motivated you are, the more motivated they will be!
-- **Instructors are learning to teach.** This takes motivation, too! Deliberative practice, seeking feedback, and reflecting on mistakes in the
+- **Learners respond to an Instructors's enthusiasm**. The more motivated you are, the more motivated they will be!
+- **Instructorss are learning to teach.** This takes motivation, too! Deliberative practice, seeking feedback, and reflecting on mistakes in the
   context of your own busy work life is a challenge. What will keep you energized to stay engaged with your learning process?
-- **Carpentries Instructors teach because they want to.** Whether you are truly volunteering your time or are fulfilling a role in a job you have
-  chosen, teaching is something you came here motivated to do. Teaching can be an incredibly gratifying activity! Finding and preserving your own motivation
-  through the many challenges ahead will make your journey as a teacher a more joyful one.
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Why Do You Teach?
 
 We all have a different motivation for teaching, and that is a really good thing!
-The Carpentries wants instructors with diverse backgrounds because you each bring something
+The Carpentries wants Instructorss with diverse backgrounds because you each bring something
 unique to our community.
 
 What motivates you to teach? Write a short explanation of what motivates you to teach.
