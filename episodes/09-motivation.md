@@ -101,6 +101,7 @@ A task may seem quick and simple from an expert perspective, but small challenge
 
 As an instructor, learning to anticipate these moments will help you better estimate how long tasks actually take for learners. Over time, this awareness improves your teaching and planning. If you are new to teaching, it can be helpful to get feedback from more experienced instructors before trying a new activity.
 
+:::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
