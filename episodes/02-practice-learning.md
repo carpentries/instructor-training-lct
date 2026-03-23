@@ -41,7 +41,7 @@ are doing, and then apply those lessons learned to the next step in the
 learning process. Having learners help each other during the workshops
 also helps to reinforce concepts taught during the workshops.
 
-**A Carpentries workshop that is an interactive event** -- for learners and
+**A workshop that is an interactive event** -- for learners and
 instructors. We give and receive feedback throughout the course of a
 workshop. We incorporate assessments within the lesson materials and ask
 for feedback on sticky notes during lunch breaks and at the end of each
@@ -94,7 +94,7 @@ a particular subject, but may nonetheless function at that level in
 certain contexts. We will come back to the expertise of the Instructor
 and its impact -- positive and negative -- on teaching, in the next
 episode. For now, we are primarily concerned with novices, as this is
-the primary target audience for this trainin.
+the primary target audience for this training.
 
 It is common to think of a novice as a sort of an "empty vessel" into
 which knowledge can be "poured." Unfortunately, this analogy includes
@@ -322,7 +322,7 @@ useful to consider 3 broad categories:
     also fall into this category of misconception.
 
 The middle category of misconceptions is the most useful type to watch
-out for. While teaching, we want to expose
+out for in most teaching scenarios. While teaching, we want to expose
 learners' broken models so that we can help them begin to deconstruct
 them and build better ones in their place.
 
