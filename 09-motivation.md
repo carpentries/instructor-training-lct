@@ -276,9 +276,7 @@ What we have not discussed yet is strategies to motivate the *instructor*. But w
 
 ## Why Do You Teach?
 
-We all have a different motivation for teaching, and that is a really good thing!
-The Carpentries wants instructors with diverse backgrounds because you each bring something
-unique to our community.
+We all have different motivations for teaching, and that is a really good thing!
 
 What motivates you to teach? Write a short explanation of what motivates you to teach.
 Save this as part of your teaching philosophy for future reference.
