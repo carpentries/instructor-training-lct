@@ -7,8 +7,8 @@ exercises: 10
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Describe three feedback mechanisms used in Carpentries workshops.
-- Give feedback to your instructors.
+- Describe potential feedback mechanisms used in classroom.
+- Give feedback to your Instructors.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -21,20 +21,19 @@ exercises: 10
 
 We use formative assessment of learners during workshops to help track
 learners' progress and adjust our approach to teaching the content as needed.
-But formative assessment is not just for learners. As we will discuss in more detail
-[later](05-practice-teaching), teaching is also a skill that is improved
+But formative assessment is not just for learners. Teaching is also a skill that is improved
 through regular practice and feedback. We gather feedback from our learners
 at multiple points in the workshop and in different forms.
 
 ## Surveys
 
-Carpentries learners fill out a survey before attending and immediately after a workshop.
-These surveys include questions to help instructors get an idea of their attendees' prior
-experience and backgrounds before the workshop starts. Using this information, instructors
+Learners should fill out a survey before attending and immediately after a workshop.
+These surveys should include questions to help Instructors get an idea of their attendees' prior
+experience and backgrounds before the workshop starts. Using this information, Instructors
 can start to plan how they will approach the materials and what level of exercises
 are likely to be appropriate for their learners.
 
-You can preview the surveys your learners will take at the links below:
+You can preview the surveys The Carpentries learners will take at the links below:
 
 - [Pre-workshop survey](https://carpentries.typeform.com/to/wi32rS?__dangerous-disable-submissions)
 - [Post-workshop survey](https://carpentries.typeform.com/to/UgVdRQ?__dangerous-disable-submissions)
@@ -45,24 +44,6 @@ all the questions, you can preview them in a text-format below:
 - [Pre-workshop survey](https://carpentries.github.io/assessment-archives/pre-workshop/pre-workshop.html)
 - [Post-workshop survey](https://carpentries.github.io/assessment-archives/post-workshop/post-workshop.html)
 
-When The Carpentries Workshops and Instruction Team sets up the surveys for your workshop, they will also send you a link to
-a dashboard with the results! Take care not to share this link with your learners.
-
-- The Carpentries maintains a [dashboard](https://workshop-reports.carpentries.org/?aggregate-workshops) displaying data from past workshop surveys, so you can have an idea of what to expect for your workshop.
-
-:::::::::::::::::::::::::::::::::::::::  checklist
-
-## Survey links
-
-The survey links above are only for you to preview the survey as part of
-Instructor Training. When you are teaching a workshop, make sure to share the
-links that get generated on your workshop website. Doing so will ensure that
-you will receive all the survey results from your workshop participants.
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![](fig/surveyscreenshot3.svg){alt='Screenshot of a workshop website showing location of customised survey links'}
 
 ### Timing Matters
 
@@ -71,13 +52,12 @@ while they are still at the workshop than they are after they leave the venue. A
 of a multi-day workshop, your learners' brains will be very tired. Rather than trying to
 fit in another 15 minutes worth of teaching, give your learners time to complete the
 post-workshop survey at the end of your workshop. You will be helping them (with an
-opportunity to reflect), yourself (you will get more useful feedback), and The Carpentries
-(we improve our programs based on feedback, and our funders take pride in the success of our workshops, too).
+opportunity to reflect), and yourself (you will get more useful feedback). 
 
 ## Minute Cards
 
-Before each long break, for example lunch or between days, we
-have learners complete **minute cards** to share anonymous feedback. At an in-person workshop,
+Before each long break, for example lunch or between days, we recommend
+that learners complete **minute cards** to share anonymous feedback. At an in-person workshop,
 paper sticky notes double as minute cards, with the two different colours used for positive and
 constructive feedback. At an online workshop, this may be done by making a copy of our [Virtual Minute Card Template](https://docs.google.com/forms/d/1rsGrY-COjGt-paQQjmTyr7Ic4iw7aNYQkBcMLHrQU0k/template/preview?pli=1)
 on Google Forms. Other tools can work as well, but we do recommend making sure that feedback is private and
@@ -97,7 +77,7 @@ Whatever method you use, you may wish to customise the prompt to elicit differen
 - One thing that is confusing / you would like clarification on.
 - One question you have
 
-During long breaks, instructors read through the minute
+During long breaks, Instructors read through the minute
 cards and look for patterns. At the start of each half day, the Instructors
 take a few minutes to address commonly raised issues with the whole class. The
 non-teaching Instructor can also type answers to the questions in the Etherpad.
@@ -118,13 +98,13 @@ will encourage learners to continue to give informative feedback throughout the 
 
 In addition to minute cards, we also ask learners to give us feedback at the end
 of each day using a technique called "one up, one down".  The
-instructor asks the learners to alternately give one positive and one
+Instructor asks the learners to alternately give one positive and one
 negative point about the day, without repeating anything that has
 already been said.  This requirement forces people to say things they
 otherwise might not: once all the "safe" feedback has been given,
-participants will start saying what they really think. The instructor
+participants will start saying what they really think. The Instructor
 writes down the feedback in the Etherpad or a text editor,
-but does not comment on the feedback while collecting it. The instructors then
+but does not comment on the feedback while collecting it. The Instructors then
 discuss this feedback and how they plan to act on it. Like with minute cards, be explicit
 about how you are responding to learner feedback.
 
