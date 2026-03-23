@@ -1,30 +1,28 @@
 ---
-title: Instructor Training Calendar
+title: Learner-Centered Teaching Calendar
 ---
 
-### About Carpentries Instructor Training
+### About Learner-Centered Teaching 
 
-This training is designed for people who want to become certified Carpentries instructors. We recommend that you be familiar with at least one of the technologies that we teach (R, Python, the Unix bash shell, SQL, OpenRefine, spreadsheet software, and/or Git) before taking Instructor Training. This training will not teach any of those subjects, but will instead focus on developing skill and knowledge about evidence-based teaching practices and workshop procedures.
+This training is intended for individuals who facilitate learning for adult learners in any capacity, but with a focus on those leading short-format trainings. It is appropriate for both novice instructors seeking foundational skills and experienced educators aiming to enhance their practice with evidence-based, inclusive teaching strategies.
 
-For more information about what will be covered at this training as well as a sample schedule, check out our [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/).
-
-In addition to Instructor Training, certification as a Carpentries Instructor includes 3 short ‘checkout' steps. For more details, see our [Checkout Instructions page](https://carpentries.github.io/instructor-training/checkout).
+For more information about what will be covered at this training as well as a sample schedule, check out our [Learner-Centered Teaching Curriculum](https://carpentries.github.io/instructor-training-lct/).
 
 ### How to Register for an Instructor Training
 
-Invited trainees can register for events listed below by clicking on the link for that event and completing the registration through Eventbrite. When you were invited, you should have received a registration code. If you are an Open Instructor Training applicant, please see your acceptance email for your code. If you were invited through a member organisation or other group, contact the person who invited you if you did not receive a registration code from them.
+Invited trainees can register for events listed below by clicking on the link for that event and completing the registration through Eventbrite. When you were invited, you should have received a registration code. If you were invited through a Partner Organisation or other group, contact the person who invited you if you did not receive a registration code from them.
 
-In addition to registering via Eventbrite, you **must** complete the [Instructor Training Profile Creation Form](https://amy.carpentries.org/forms/request_training/) before attending Instructor Training. This creates an entry in our database and allows us to record attendance and track your progress through the Instructor certification process. Please use the same registration code that was provided for Eventbrite.
+In addition to registering via Eventbrite, you **must** complete the [Carpentries Profile Creation Form](https://amy.carpentries.org/forms/request_training/) before attending Learner-Centered Teaching. This creates an entry in our database and allows us to record your attendance. Please use the same registration code that was provided for Eventbrite.
 
 ### When to Register
 
-#### Members and other groups
+#### Partners and other groups
 
-Registration codes provided to members and other groups are active immediately and may be used for any event until one week prior to its start date.
+Registration codes provided to Partners and other groups are active immediately and may be used for any event until one week prior to its start date.
 
 ### Cancellation Policies
 
-Cancellation may be performed in Eventbrite up to the start of the event. To support our program and honour the time donated by our Instructor Trainers, we ask that cancellations be made as far in advance as possible to allow other trainees to register before the 1 week deadline.
+Cancellation may be performed in Eventbrite up to the start of the event. To support our program and honour the time donated by our Instructor Trainers, we ask that cancellations be made as far in advance as possible to allow other trainees to register before the 1-week deadline.
 
 After a registration has been cancelled in Eventbrite, the code that was used to register will become available to sign up for a different event.
 
@@ -38,37 +36,12 @@ A link is provided next to each event that will convert the start time to your l
 
 More details on our [cancellation and makeup policy](https://docs.carpentries.org/handbooks/instructors.html#instructor-training-attendance-policy) are available in The Carpentries Handbook.
 
-### Upcoming Instructor Training
+### Upcoming Learner-Centered Teaching
 
-Registration closes one week prior to the training event. New trainings are added to this calendar on a quarterly basis (generally in early March, June, September, and December).
-
-<hr>
-
-#### [3-6 February 2026](https://www.eventbrite.com/e/online-instructor-training-february-3-6-2026-tickets-1976645579137)
-**Four 4-hour days:** 9 am to 1 pm N. America Pacific Time / 12 noon to 4 pm N. America Eastern Time  / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20260203T09&p1=137&ah=4)
+Registration closes one week prior to the training event. New trainings are added to this calendar on demand.
 
 <hr>
-
-#### [9-12 February 2026](https://www.eventbrite.com/e/online-instructor-training-february-9-12-2026-tickets-1976648005394)
-**Four 4-hour days:** 9 am to 1 pm N. America Eastern Time / 2 pm to 6 pm UTC  / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20260209T09&p1=179&ah=4)
-
-<hr>
-
-#### [9-12 March 2026](https://www.eventbrite.com/e/online-instructor-training-march-9-12-2026-tickets-1977513005633)
-**Four 4-hour days:** 9 am to 1 pm Central European Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20260309T09&p1=195&ah=4)
-
-
-<hr>
-
-
-#### [16-17 March 2026](https://www.eventbrite.com/e/online-instructor-training-march-16-17-2026-tickets-1976652575062)
-**Two 8-hour days:** 9 am to 5 pm UTC / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20260316T09&p1=1440&ah=8)
-
-<hr>
-
-#### [17-20 March 2026](https://www.eventbrite.com/e/online-instructor-training-march-17-20-2026-tickets-1976652993313)
-**Four 4-hour days:** 9 am to 1 pm N. America Pacific Time / 12 noon to 4 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Instructor+Training&iso=20260317T09&p1=137&ah=4)
-
+There are currently no scheduled upcoming events. 
 <hr>
 
 ### Accessibility Support
