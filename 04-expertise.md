@@ -267,32 +267,17 @@ you take care not to generalise from your experience to that of your novice lear
 We will talk more about knowing your audience in a later episode. For now, here are
 two points to keep in mind when contemplating the learner experience:
 
-- In most cases a researcher's **primary goal is not to learn programming**, but to do better and more efficient research.
-  They may not wish to take the time to learn how fundamental syntax or data structures work, or
-  to learn any 'fun facts' that are not strictly necessary; they just want to know how to get their work done.
-  This does not mean they never will be interested -- maybe this is how you got your start, too! But if you
-  began with an interest in programming, keep in mind that this can make their learning experience very different
-  from yours.
-- Some researchers have avoided learning programming previously because they believe that the time investment
-  will be excessive and will interfere with their other work. These kinds of beliefs can make their motivation to
-  persevere more fragile than yours might have been when you got started.
+- In most cases, a learner’s primary goal is not to master a subject for its own sake, but to accomplish something meaningful or solve a specific problem. They may not be interested in deep theory, background details, or extra information that does not feel immediately useful. Instead, they want practical knowledge that helps them make progress. This does not mean their curiosity will not grow over time, but their starting point may be very different from yours.
+- Some learners may have avoided engaging with this subject in the past because they believe it will require too much time, effort, or frustration. These perceptions can make their motivation more fragile, especially when they encounter challenges. As a result, they may need more reassurance, relevance, and early wins to stay engaged.
 
 :::::::::::::::::::::::::::::::::::::::::  callout
 
-## The Carpentries Is Not Computer Science
+## This Is Not About Mastering the Entire Field
+Many foundational or theoretical concepts in any field can be complex and not immediately useful. That does not mean they are unimportant.
 
-Many of the foundational concepts of computer science,
-such as computability,
-are difficult to learn and not immediately useful.
-This does *not* mean that they are not important,
-or are not worth learning,
-but if our aim is to convince people that they can learn this stuff,
-and that doing so will help them do more research faster,
-computer science concepts are less compelling than things like automating repetitive tasks.
+However, when the goal is to help people get started and build confidence, practical and immediately applicable skills are often more motivating than abstract theory.
 
-**note** TODO: Add something that is not a computer-science based example, for e.g. something like "When you are teaching a history class, you are not teaching them historiography"; you are teaching biology not biologists, etc.
-
-
+For example, someone learning how to teach does not need to begin with educational theory or pedagogy models. Instead, starting with simple techniques like structuring a lesson, asking effective questions, or engaging learners can help them improve right away. Once they gain confidence, they may be more open to exploring deeper teaching frameworks.
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Expert Advantages
