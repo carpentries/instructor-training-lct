@@ -9,7 +9,7 @@ exercises: 20
 
 - Identify instructional strategies that are consistent with universal design.
 - Recognise systemic factors that can distract and demotivate learners.
-- Understand the role of The Carpentries Code of Conduct in maintaining an explicitly inclusive environment.
+- Understand the role of the Code of Conduct in maintaining an explicitly inclusive environment.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -46,9 +46,9 @@ things that we do, things that we are, and things that we champion. Many of thes
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
-## Discuss The Carpentries Core Values
+## Discuss The Core Values
 
-1. Take a moment to read through [The Carpentries Core Values][core-values] at [https://carpentries.org/about-us/#our-values][core-values].
+1. Take a moment to read through your organisation's core-values. 
 2. Choose one core value that resonates with you. What is a decision you might make in a workshop
   that could look different if you were actively considering the core value you chose?
 
@@ -67,7 +67,7 @@ What barriers might be present in your workshop, and what can you do to remove t
 In your discussion of accessibility, it is helpful to point out that accessibility may not always affect only individual learners,
 such as persons with disabilities. Geographic and social differences can present barriers to accessibility for entire groups.
 People in rural regions or institutions with unreliable electricity and internet access, for example, face extra barriers to
-participating in online Carpentries workshops, instructor trainings, and community events.
+participating in online Carpentries workshops, Instructor trainings, and community events.
 
 :::::::::::::::::::::::::::::::::::::::
 
@@ -95,17 +95,17 @@ learners to trust that additional requests are likely to be well received.
 
 If you are playing the host role (or part of it), note that our [host template][handbook-host-template]
 includes an inquiry regarding accessibility needs. However, be aware that **many
-people will not feel comfortable requesting accommodations in advance**, or at all if it can be avoided.
+people will not feel comfortable requesting accessibility support in advance**, or at all if it can be avoided.
 For example, a participant who is hard of hearing may simply hope that
 instructors will speak loudly enough for them to hear. Taking steps to make
 your workshop maximally accessible can relieve your participants of the need to disclose personal information.
 
-### From Accommodation to Universal Design
+### From Accessibility Support to Universal Design
 
-Accommodation means changing things to serve an individual with a demonstrated need.
-However, **accommodation puts the onus on the individual with the need** to
-have to disclose their disability and ask for accommodations. Reluctance to
-do so is understandable: requests for accommodation are often met with negative
+Accessibility Support means changing things to serve an individual with a demonstrated need.
+However, **accessibility support puts the onus on the individual with the need** to
+have to disclose their disability and ask for support. Reluctance to
+do so is understandable: requests for support are often met with negative
 emotions such as uncertainty, confusion, annoyance or anger by those receiving the requests.
 
 By contrast, "universal design" means creating something to be maximally usable by all people
@@ -149,7 +149,6 @@ This exercise should take about 10 minutes.
 
 Wherever possible, when considering whether or how to change your approach to universal design,
 make an effort to *involve people with disabilities in decision-making*.
-Carpentries communications channels can be a good place to ask for advice more broadly.
 
 :::::::::::::::::::::::::::::::::::::::::  callout
 
@@ -264,7 +263,7 @@ work together to implement what they've learned after the workshop has ended.
 We can monitor our own use of stereotypes, but the experiences that people have before and
 after our workshop are beyond our control. Because these experiences are unequal, including
 historical and present-day differences in
-access to resources, mentorship, and other avenues towards career success, we aim to make Carpentries
+access to resources, mentorship, and other avenues towards career success, can aim to make 
 programs *equitable*. This means that, rather than offering the same access and experience to all, we
 aim to use our programs to actively counter-balance unequal opportunities that have led to
 disproportionate representation of certain groups in data-centric careers.
@@ -272,12 +271,12 @@ disproportionate representation of certain groups in data-centric careers.
 If you host a workshop, we encourage you to consider means of reaching out to historically under-represented
 groups in your community who may be interested in attending.
 
-## Inclusive Practices in a Carpentries Workshop
+## Inclusive Practices in a Workshop
 
 ### Setting Expectations with the Code of Conduct
 
-One central way that The Carpentries fosters an inclusive, respectful
-learning environment is our [Code of Conduct][coc].
+One central way to fosters an inclusive, respectful
+learning environment is through a [Code of Conduct][coc].
 
 All participants in our workshops, activities and communities are required to abide by the
 [Code of Conduct][coc].
@@ -288,9 +287,6 @@ being mindful of the impact of their words and actions. It also offers reassuran
 to all that the instructional team cares about their experience, creating
 an environment that is explicitly inclusive and supports safe focus
 on learning.
-
-We will discuss the Code of Conduct in greater detail in Part 4 of this training during
-our discussion of [Working with your team](21-management.md).
 
 ### Listening with Assessment and Feedback
 
@@ -318,12 +314,6 @@ didn't ask for it? Who were you most eager to impress?
 
 Asking yourself questions like these is hard! Answering them is harder.
 When you notice things that trouble you, keep a positive and simple goal in mind: to learn and to improve.
-
-## Looking for More? Want to Contribute?
-
-The Carpentries is actively working on improving our content and practices with respect to equity, inclusion, and accessibility. If you are interested in
-being involved in the development of this content, please let us know! Contributions to this page may be made on GitHub (click the "Edit this page" link
-at the top), though our [\#accessibility channel][slack-accessibility] on [The Carpentries Slack][slack-join], or by emailing [team@carpentries.org](mailto:team@carpentries.org).
 
 [glossary]: https://web.archive.org/web/20250612203302/https://www.diversity.pitt.edu/education/glossary-terms
 [core-values]:  https://carpentries.org/about-us/#our-values
