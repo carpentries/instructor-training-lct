@@ -20,10 +20,9 @@ exercises: 40
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 So far, we have focused on how we can be effective instructors by understanding
-how people learn and how to create a positive classroom environment, covering
-two of our primary goals in helping you become a certified Carpentries Instructor.
+how people learn and how to create a positive classroom environment.
 Now our focus will shift to developing additional teaching skills that you can
-use in a Carpentries workshop setting, starting with the process of "lesson study",
+use in a classroom setting, starting with the process of "lesson study",
 or teaching observation and feedback.
 
 ## Lesson Study: Applying a Growth Mindset to Teaching
@@ -76,14 +75,6 @@ to deliver an actual lesson in an actual classroom for actual learners.
 When teachers do not observe each other teaching, the tricks and techniques that each instructor
 has painstakingly incorporated into their practice do not have the opportunity to spread, limiting
 forward momentum on system-wide improvements to teaching.
-
-Therefore, just like other disciplines (sports and music are two good examples), teachers benefit from closely
-observing the work of others.  The Carpentries pedagogical model supports lesson
-study by providing many opportunities for our instructors
-to learn from each other. In this training, you will have opportunities to practice teaching for one another
-and to give each other feedback.  You will also have the opportunity to practice in front of an experienced instructor
-as part of your instructor training checkout. In addition, Carpentries Instructors always teach in pairs (or more),
-giving you the opportunity to learn by observing and to get feedback from your fellow instructors.
 
 :::::::::::::::::::::::::::::::::::::::::  callout
 
@@ -154,8 +145,6 @@ For example:
   are following, so you could speed up" than to read several notes all saying, "this is
   too slow" or "this is boring".
 
-This is part of the reason for The Carpentries rule,
-"Never teach alone."
 Having another Instructor in the classroom divides the effort,
 but more importantly,
 it is a chance for Instructors to learn from one another and be a supportive voice
@@ -283,8 +272,6 @@ practice teaching and to get and give feedback in parts 3 and 4.
 
 We encourage you to review the following episodes as a resource when preparing to teach your materials.
 
-- [Understanding your audience and examining learning objects](18-preparation.md)
-- [Developing your introduction and conclusion of a workshop](23-introductions.md)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
