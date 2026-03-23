@@ -67,7 +67,7 @@ What barriers might be present in your workshop, and what can you do to remove t
 In your discussion of accessibility, it is helpful to point out that accessibility may not always affect only individual learners,
 such as persons with disabilities. Geographic and social differences can present barriers to accessibility for entire groups.
 People in rural regions or institutions with unreliable electricity and internet access, for example, face extra barriers to
-participating in online Carpentries workshops, Instructor trainings, and community events.
+participating in online workshops, trainings, and community events.
 
 :::::::::::::::::::::::::::::::::::::::
 
