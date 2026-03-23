@@ -102,7 +102,7 @@ your workshop maximally accessible can relieve your participants of the need to 
 
 ### From Accessibility Support to Universal Design
 
-Accessibility Support means changing things to serve an individual with a demonstrated need.
+Accessibility support means changing things to serve an individual with a demonstrated need.
 However, **accessibility support puts the onus on the individual with the need** to
 have to disclose their disability and ask for support. Reluctance to
 do so is understandable: requests for support are often met with negative
