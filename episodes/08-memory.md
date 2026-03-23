@@ -244,7 +244,7 @@ but that does not mean it always works.
 
 ## Mapping Cognitive Load
 
-Look in the curriculum that you chose to prepare for this training and focus on one step or task
+Think about the material you use to teach and focus on one step or task
 that learners will be asked to complete.
 
 1. What concepts will learners need to understand and hold in short-term memory in order to complete this task?
@@ -260,12 +260,6 @@ This exercise should take about 15 minutes.
 
 ## Attention Management in Your Workshop
 
-Carpentries lessons include small tasks arranged incrementally
-that are intended to be completed together, through 
-**[participatory live coding](https://en.wikipedia.org/wiki/Live_coding)**.
-We will discuss live coding in greater detail in Parts 3 and 4. If you want to see
-more about using the technique, see [Live Coding is a Skill](17-live.md).
-
 The choices you make as an Instructor may add to or subtract from your learners' cognitive load. Supporting memory consolidation
 can reduce load later on in the workshop, as it reduces the effort of recalling forgotten material. You can also minimise
 cognitive load by choosing formative assessments that are
@@ -278,8 +272,7 @@ many different types of exercises that can focus attention narrowly and help to 
 Carefully targeted multiple choice questions can play this role.
 A few more that you may wish to consider are:
 
-- [Faded examples][wikipedia-faded]: worked examples with targeted details "faded" out -- essentially fill-in-the-blank programming blocks
-- [Parson's Problems][wikipedia-parsons]: out-of-order code selection \& sorting challenges
+- [Faded examples][wikipedia-faded]: worked examples with targeted details "faded" out 
 - Labelling diagrams or flow charts (may also be organised as a fill-in-the-blank)
 
 Beware of assessments that are too open-ended, as these are very likely to induce cognitive overload in novice learners! You may have experienced
@@ -289,9 +282,8 @@ a question and get a room filled with silence, you may need an icebreaker, you m
 
 ### What to Display
 
-The Carpentries provides nicely formatted curricula for teaching. However, you may have noticed that you have not seen much, or perhaps
-any of the Instructor Training curriculum during your time as a learner in this training. In most situations **we do not recommend
-displaying Carpentries curriculum materials** to your learners while you teach.
+In most situations **we do not recommend
+displaying your curriculum materials** to your learners while you teach.
 
 The visual environment in a workshop should be focused on exactly what you are teaching and should mirror,
 as closely as possible, exactly what you say.
@@ -301,10 +293,7 @@ trying to assemble information from different modalities. Learning is most effec
 displays, text, and auditory information presented together
 are the same, with minimal distractions.
 
-For Carpentries workshops, this is why we ask Instructors to **speak commands as they type them on the screen**
-while engaging learners in [participatory live coding](17-live).
-
-One thing you may wish to consider adding to your (otherwise minimalist) visual environment, however, is a **running glossary of commands**
+One thing you may wish to consider adding to your (otherwise minimalist) visual environment, however, is a **running glossary of terms**
 and other key terms. This can be maintained by a helper on a white board or an easel pad and will help learners readily access
 items that may have already been dropped from short-term memory by the time they need them. In an online workshop, display of a glossary
 is impractical because of severe limitations on screen space; however, a glossary can still be maintained in a collaborative document
