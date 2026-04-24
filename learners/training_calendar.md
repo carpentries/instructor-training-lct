@@ -10,9 +10,9 @@ For more information about what will be covered at this training as well as a sa
 
 ### How to Register for an Instructor Training
 
-Invited trainees can register for events listed below by clicking on the link for that event and completing the registration through Eventbrite. When you were invited, you should have received a registration code. If you were invited through a Partner Organisation or other group, contact the person who invited you if you did not receive a registration code from them.
+Invited trainees can register for events listed below by clicking on the link for that event and completing the registration through Pretix. When you were invited, you should have received a registration code. If you were invited through a Partner Organisation or other group, contact the person who invited you if you did not receive a registration code from them.
 
-In addition to registering via Eventbrite, you **must** complete the [Carpentries Profile Creation Form](https://amy.carpentries.org/forms/request_training/) before attending Learner-Centered Teaching. This creates an entry in our database and allows us to record your attendance. Please use the same registration code that was provided for Eventbrite.
+In addition to registering via Pretix, you **must** complete the [Carpentries Profile Creation Form](https://amy.carpentries.org/forms/request_training/) before attending Learner-Centered Teaching. This creates an entry in our database and allows us to record your attendance. Please use the same registration code that was provided for Pretix.
 
 ### When to Register
 
@@ -22,19 +22,17 @@ Registration codes provided to Partners and other groups are active immediately 
 
 ### Cancellation Policies
 
-Cancellation may be performed in Eventbrite up to the start of the event. To support our program and honour the time donated by our Instructor Trainers, we ask that cancellations be made as far in advance as possible to allow other trainees to register before the 1-week deadline.
+Cancellation may be performed in Pretix up to the start of the event. To support our program and honour the time donated by our Instructor Trainers, we ask that cancellations be made as far in advance as possible to allow other trainees to register before the 1-week deadline.
 
-After a registration has been cancelled in Eventbrite, the code that was used to register will become available to sign up for a different event.
+After a registration has been cancelled in Pretix, the code that was used to register will become available to sign up for a different event.
 
 If a trainee repeatedly registers and cancels (>3 times), or registers for more than one seat at the same time, they may be barred from further registration.
 
 #### Attendance
 
-Trainees who miss more than 1 hour of an Instructor Training event may be marked absent. Instructor certification cannot be completed without full attendance at an Instructor Training event.
+Trainees who miss more than 1 hour of an Learner-Centered Teaching event may be marked absent. 
 
 A link is provided next to each event that will convert the start time to your local time zone. Please be sure to verify your availability for the full instructional time of your event. If you expect to miss more than a total of 1 hour, please select a different event.
-
-More details on our [cancellation and makeup policy](https://docs.carpentries.org/handbooks/instructors.html#instructor-training-attendance-policy) are available in The Carpentries Handbook.
 
 ### Upcoming Learner-Centered Teaching
 
