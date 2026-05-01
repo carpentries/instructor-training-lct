@@ -8,7 +8,7 @@ This training is intended for individuals who facilitate learning for adult lear
 
 For more information about what will be covered at this training as well as a sample schedule, check out our [Learner-Centered Teaching Curriculum](https://carpentries.github.io/instructor-training-lct/).
 
-### How to Register for an Instructor Training
+### How to Register for a Learner-Centered Teaching
 
 Invited trainees can register for events listed below by clicking on the link for that event and completing the registration through Eventbrite. When you were invited, you should have received a registration code. If you were invited through a Partner Organisation or other group, contact the person who invited you if you did not receive a registration code from them.
 
@@ -30,11 +30,9 @@ If a trainee repeatedly registers and cancels (>3 times), or registers for more 
 
 #### Attendance
 
-Trainees who miss more than 1 hour of an Instructor Training event may be marked absent. Instructor certification cannot be completed without full attendance at an Instructor Training event.
+Trainees who miss more than 1 hour of a Learner-Centered Teaching event may be marked absent. 
 
 A link is provided next to each event that will convert the start time to your local time zone. Please be sure to verify your availability for the full instructional time of your event. If you expect to miss more than a total of 1 hour, please select a different event.
-
-More details on our [cancellation and makeup policy](https://docs.carpentries.org/handbooks/instructors.html#instructor-training-attendance-policy) are available in The Carpentries Handbook.
 
 ### Upcoming Learner-Centered Teaching
 
