@@ -40,17 +40,17 @@ Registration closes one week prior to the training event. New trainings are adde
 
 <hr>
 
-####[18-19 May 2026](https://www.eventbrite.com/e/online-learner-centered-teaching-training-18-19-may-2026-tickets-1988631322819)
+[18-19 May 2026](https://www.eventbrite.com/e/online-learner-centered-teaching-training-18-19-may-2026-tickets-1988631322819)
 **Two 4-hour days:** 9 am to 1 pm N. America Eastern Time / 3 pm to 7 pm Central European Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Learner-Centered+Teaching&iso=20260518T09&p1=77) 
 
 <hr>
 
-####[16-17 June 2026](https://www.eventbrite.com/e/online-learner-centered-teaching-training-16-17-june-2026-tickets-1988631901550) 
+[16-17 June 2026](https://www.eventbrite.com/e/online-learner-centered-teaching-training-16-17-june-2026-tickets-1988631901550) 
 **Two 4-hour days:**  3 pm  to 7 pm N. America Pacific Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Learner-Centered+Teaching&year=&month=06&day=17&hour=15&min=00&sec=0&p1=224)
 
 <hr>
 
-####[24-25 June 2026](https://www.eventbrite.com/e/online-learner-centered-teaching-training-24-25-june-2026-tickets-1988632111177) 
+[24-25 June 2026](https://www.eventbrite.com/e/online-learner-centered-teaching-training-24-25-june-2026-tickets-1988632111177) 
 **Two 4-hour days:** 9 am to 1 pm N. America Eastern Time / 3 pm to 7 pm Central European Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Learner-Centered+Teaching&iso=20260624T09&p1=77)
 
 <hr>
