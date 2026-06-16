@@ -46,7 +46,7 @@ Registration closes one week prior to the training event. New trainings are adde
 <hr>
 
 #### [26 August 2026](https://www.eventbrite.com/e/online-learner-centered-teaching-training-26-august-2026-tickets-1991991478134)
-**One 8-hour days:** 9 am to 5 pm Central European Summer Time  / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Learner-Centered+Teaching&iso=20260826T07&p1=1440 )
+**One 8-hour day:** 9 am to 5 pm Central European Summer Time  / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Learner-Centered+Teaching&iso=20260826T07&p1=1440 )
 
 <hr>
 
