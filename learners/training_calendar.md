@@ -40,8 +40,6 @@ Registration closes one week prior to the training event. New trainings are adde
 
 <hr>
 
-#### [15-16 September 2026](https://www.eventbrite.com/e/online-learner-centered-teaching-training-15-16-september-2026-tickets-1991992222360)
-**Two 4-hour days:** 8 am to 12 pm N. America Pacific Time / 11 am - 3 pm N. America Eastern Time / [See the start date and time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Learner-Centered+Teaching&iso=20260915T15&p1=1440)
 
 <hr>
 
